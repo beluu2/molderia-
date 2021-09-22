@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>430b47bf-58c9-4c1d-8fa6-f2c9c5daaac6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>prueba0.py</StartupFile>
+    <StartupFile>prueba_diccionarios.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,7 +24,16 @@
     <Compile Include="ejemplos de molderia.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="diccionarios.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="pantalon.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="prueba0.py" />
+    <Compile Include="prueba_diccionarios.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
