@@ -1,0 +1,175 @@
+AED	784	2	Dírham de los Emiratos Árabes Unidos	Flag of the United Arab Emirates.svg Emiratos Árabes Unidos
+AFN	971	2	Afgani	Bandera de Afganistán Afganistán
+ALL	008	2	Lek	Flag of Albania.svg Albania
+AMD	051	2	Dram armenio	Bandera de Armenia Armenia
+ANG	532	2	Florín antillano neerlandés	Bandera de Curazao Curazao, Flag of Sint Maarten.svg San Martín
+AOA	973	2	Kwanza	Bandera de Angola Angola
+ARS	032	2	Peso argentino	Bandera de Argentina Argentina
+AUD	036	2	Dólar australiano	Bandera de Australia Australia, que incluye:
+AWG	533	2	Florín arubeño	Bandera de Aruba Aruba
+AZN	944	2	Manat azerbaiyano	Bandera de Azerbaiyán Azerbaiyán
+BAM	977	2	Marco convertible	Bandera de Bosnia y Herzegovina Bosnia y Herzegovina
+BBD	052	2	Dólar barbadense	Bandera de Barbados Barbados
+BDT	050	2	Taka	Bandera de Bangladés Bangladés
+BGN	975	2	Lev búlgaro	Bandera de Bulgaria Bulgaria
+BHD	048	3	Dinar bareiní	Bandera de Baréin Baréin
+BIF	108	0	Franco de Burundi	Bandera de Burundi Burundi
+BMD	060	2	Dólar bermudeño	Bandera de Bermudas Bermudas
+BND	096	2	Dólar de Brunéi	Bandera de Brunéi Brunéi
+BOB	068	2	Boliviano	Flag of Bolivia.svg Bolivia
+BOV	984	2	MVDOL	Flag of Bolivia.svg Bolivia
+BRL	986	2	Real brasileño	Bandera de Brasil Brasil
+BSD	044	2	Dólar bahameño	Bandera de Bahamas Bahamas
+BTN	064	2	Ngultrum	Bandera de Bután Bután
+BWP	072	2	Pula	Bandera de Botsuana Botsuana
+BYN	933	2	Rublo bielorruso	Flag of Belarus.svg Bielorrusia
+BZD	084	2	Dólar beliceño	Bandera de Belice Belice
+CAD	124	2	Dólar canadiense	Flag of Canada.svg Canadá
+CDF	976	2	Franco congoleño	Bandera de República Democrática del Congo República Democrática del Congo
+CHE	947	2	Euro WIR	Flag of Switzerland (Pantone).svg Suiza
+CHF	756	2	Franco suizo	Flag of Switzerland (Pantone).svg Suiza
+CHW	948	2	Franco WIR	Flag of Switzerland (Pantone).svg Suiza
+CLF	990	4	Unidad de fomento	Bandera de Chile Chile
+CLP	152	0	Peso chileno	Bandera de Chile Chile
+CNY	156	2	Yuan chino	Bandera de la República Popular China China
+COP	170	2	Peso colombiano	Flag of Colombia.svg Colombia
+COU	970	2	Unidad de valor real	Flag of Colombia.svg Colombia
+CRC	188	2	Colón costarricense	Flag of Costa Rica.svg Costa Rica
+CUC	931	2	Peso convertible	Flag of Cuba.svg Cuba
+CUP	192	2	Peso cubano	Flag of Cuba.svg Cuba
+CVE	132	2	Escudo caboverdiano	Bandera de Cabo Verde Cabo Verde
+CZK	203	2	Corona checa	Flag of the Czech Republic.svg República Checa
+DJF	262	0	Franco yibutiano	Bandera de Yibuti Yibuti
+DKK	208	2	Corona danesa	Bandera de Dinamarca Dinamarca, que incluye:
+DOP	214	2	Peso dominicano	Flag of the Dominican Republic.svg República Dominicana
+DZD	012	2	Dinar argelino	Bandera de Argelia Argelia
+EGP	818	2	Libra egipcia	Flag of Egypt.svg Egipto
+ERN	232	2	Nakfa	Bandera de Eritrea Eritrea
+ETB	230	2	Birr etíope	Bandera de Etiopía Etiopía
+EUR	978	2	Euro	Bandera de Europa Eurozona en la Unión Europea:
+FJD	242	2	Dólar fiyiano	Bandera de Fiyi Fiyi
+FKP	238	2	Libra malvinense	Bandera de las Islas Malvinas Islas Malvinas
+GBP	826	2	Libra esterlina	Bandera de Reino Unido Reino Unido, incluyendo las Dependencias de la Corona británica:
+GEL	981	2	Lari	Bandera de Georgia Georgia
+GHS	936	2	Cedi ghanés	Bandera de Ghana Ghana
+GIP	292	2	Libra de Gibraltar	Bandera de Gibraltar Gibraltar
+GMD	270	2	Dalasi	Bandera de Gambia Gambia
+GNF	324	0	Franco guineano	Bandera de Guinea Guinea
+GTQ	320	2	Quetzal	Flag of Guatemala.svg Guatemala
+GYD	328	2	Dólar guyanés	Bandera de Guyana Guyana
+HKD	344	2	Dólar de Hong Kong	Bandera de Hong Kong Hong Kong
+HNL	340	2	Lempira	Bandera de Honduras Honduras
+HRK	191	2	Kuna	Flag of Croatia.svg Croacia
+HTG	332	2	Gourde	Bandera de Haití Haití
+HUF	348	2	Forinto	Flag of Hungary.svg Hungría
+IDR	360	2	Rupia indonesia	Bandera de Indonesia Indonesia
+ILS	376	2	Nuevo séquel israelí	Bandera de Israel Israel
+INR	356	2	Rupia india	Bandera de Bután Bután, Bandera de la India India
+IQD	368	3	Dinar iraquí	Bandera de Irak Irak
+IRR	364	2	Rial iraní	Bandera de Irán Irán
+ISK	352	0	Corona islandesa	Bandera de Islandia Islandia
+JMD	388	2	Dólar jamaiquino	Bandera de Jamaica Jamaica
+JOD	400	3	Dinar jordano	Bandera de Jordania Jordania
+JPY	392	0	Yen	Bandera de Japón Japón
+KES	404	2	Chelín keniano	Bandera de Kenia Kenia
+KGS	417	2	Som	Bandera de Kirguistán Kirguistán
+KHR	116	2	Riel	Bandera de Camboya Camboya
+KMF	174	0	Franco comorense	Bandera de Comoras Comoras
+KPW	408	2	Won norcoreano	Bandera de Corea del Norte Corea del Norte
+KRW	410	0	Won	Bandera de Corea del Sur Corea del Sur
+KWD	414	3	Dinar kuwaití	Bandera de Kuwait Kuwait
+KYD	136	2	Dólar de las Islas Caimán	Bandera de Islas Caimán Islas Caimán
+KZT	398	2	Tenge	Flag of Kazakhstan.svg Kazajistán
+LAK	418	2	Kip	Bandera de Laos Laos
+LBP	422	2	Libra libanesa	Bandera de Líbano Líbano
+LKR	144	2	Rupia de Sri Lanka	Bandera de Sri Lanka Sri Lanka
+LRD	430	2	Dólar liberiano	Bandera de Liberia Liberia
+LSL	426	2	Loti	Bandera de Lesoto Lesoto
+LYD	434	3	Dinar libio	Bandera de Libia Libia
+MAD	504	2	Dírham marroquí	Bandera de Marruecos Marruecos, Bandera de República Árabe Saharaui Democrática República Árabe Saharaui Democrática
+MDL	498	2	Leu moldavo	Bandera de Moldavia Moldavia
+MGA	969	2	Ariary malgache	Bandera de Madagascar Madagascar
+MKD	807	2	Denar	Bandera de Macedonia del Norte Macedonia del Norte
+MMK	104	2	Kyat	Bandera de Birmania Birmania
+MNT	496	2	Tugrik	Bandera de Mongolia Mongolia
+MOP	446	2	Pataca	Bandera de Macao Macao
+MRU	929	2	Uguiya	Bandera de Mauritania Mauritania
+MUR	480	2	Rupia de Mauricio	Bandera de Mauricio Mauricio
+MVR	462	2	Rufiyaa	Bandera de Maldivas Maldivas
+MWK	454	2	Kwacha	Bandera de Malaui Malaui
+MXN	484	2	Peso mexicano	Flag of Mexico.svg México
+MXV	979	2	Unidad de Inversión (UDI) mexicana	Flag of Mexico.svg México
+MYR	458	2	Ringgit malayo	Bandera de Malasia Malasia
+MZN	943	2	Metical mozambiqueño	Bandera de Mozambique Mozambique
+NAD	516	2	Dólar namibio	Bandera de Namibia Namibia
+NGN	566	2	Naira	Bandera de Nigeria Nigeria
+NIO	558	2	Córdoba	Flag of Nicaragua.svg Nicaragua
+NOK	578	2	Corona noruega	Flag of Norway.svg Noruega, que incluye:
+NPR	524	2	Rupia nepalí	Bandera de Nepal Nepal
+NZD	554	2	Dólar neozelandés	Bandera de Nueva Zelanda Nueva Zelanda, que incluye:
+OMR	512	3	Rial omaní	Bandera de Omán Omán
+PAB	590	2	Balboa	Flag of Panama.svg Panamá
+PEN	604	2	Sol	Flag of Peru.svg Perú
+PGK	598	2	Kina	Bandera de Papúa Nueva Guinea Papúa Nueva Guinea
+PHP	608	2	Peso filipino	Bandera de Filipinas Filipinas
+PKR	586	2	Rupia pakistaní	Bandera de Pakistán Pakistán
+PLN	985	2	Złoty	Flag of Poland.svg Polonia
+PYG	600	0	Guaraní	Flag of Paraguay.svg Paraguay
+QAR	634	2	Rial catarí	Bandera de Catar Catar
+RON	946	2	Leu rumano	Bandera de Rumania Rumania
+RSD	941	2	Dinar serbio	Bandera de Serbia Serbia
+RUB	643	2	Rublo ruso	Flag of Russia.svg Rusia
+RWF	646	0	Franco ruandés	Bandera de Ruanda Ruanda
+SAR	682	2	Rial saudí	Bandera de Arabia Saudita Arabia Saudita
+SBD	090	2	Dólar de las Islas Salomón	Bandera de Islas Salomón Islas Salomón
+SCR	690	2	Rupia seychelense	Bandera de Seychelles Seychelles
+SDG	938	2	Libra sudanesa	Bandera de Sudán Sudán
+SEK	752	2	Corona sueca	Flag of Sweden.svg Suecia
+SGD	702	2	Dólar de Singapur	Bandera de Singapur Singapur
+SHP	654	2	Libra de Santa Elena	Bandera de Santa Elena, Ascensión y Tristán de Acuña Santa Elena, Ascensión y Tristán de Acuña
+SLL	694	2	Leone	Bandera de Sierra Leona Sierra Leona
+SOS	706	2	Chelín somalí	Bandera de Somalia Somalia
+SRD	968	2	Dólar surinamés	Bandera de Surinam Surinam
+SSP	728	2	Libra sursudanesa	Bandera de Sudán del Sur Sudán del Sur
+STN	930	2	Dobra	Bandera de Santo Tomé y Príncipe Santo Tomé y Príncipe
+SVC	222	2	Colón Salvadoreño	Flag of El Salvador.svg El Salvador
+SYP	760	2	Libra siria	Bandera de Siria Siria
+SZL	748	2	Lilangeni	Bandera de Suazilandia Suazilandia
+THB	764	2	Baht	Bandera de Tailandia Tailandia
+TJS	972	2	Somoni tayiko	Bandera de Tayikistán Tayikistán
+TMT	934	2	Manat turcomano	Bandera de Turkmenistán Turkmenistán
+TND	788	3	Dinar tunecino	Bandera de Túnez Túnez
+TOP	776	2	Paʻanga	Bandera de Tonga Tonga
+TRY	949	2	Lira turca	Bandera de Turquía Turquía
+TTD	780	2	Dólar de Trinidad y Tobago	Bandera de Trinidad y Tobago Trinidad y Tobago
+TWD	901	2	Nuevo dólar taiwanés	Bandera de Taiwán República de China
+TZS	834	2	Chelín tanzano	Bandera de Tanzania Tanzania
+UAH	980	2	Grivna	Flag of Ukraine.svg Ucrania
+UGX	800	0	Chelín ugandés	Bandera de Uganda Uganda
+USD	840	2	Dólar estadounidense	Bandera de Estados Unidos Estados Unidos, incluyendo los territorios no incorporados:
+USN	997	2	Dólar estadounidense (Siguiente día)	Bandera de Estados Unidos Estados Unidos
+UYI	940	0	Peso en Unidades Indexadas (Uruguay)	Flag of Uruguay.svg Uruguay
+UYU	858	2	Peso uruguayo	Flag of Uruguay.svg Uruguay
+UYW	927	4	Unidad Previsional	Flag of Uruguay.svg Uruguay
+UZS	860	2	Som uzbeko	Bandera de Uzbekistán Uzbekistán
+VES7​	9288​7​	2	Bolívar soberano	Bandera de Venezuela Venezuela7​
+VND	704	0	Dong vietnamita	Bandera de Vietnam Vietnam
+VUV	548	0	Vatu	Bandera de Vanuatu Vanuatu
+WST	882	2	Tala	Bandera de Samoa Samoa
+XAF	950	0	Franco CFA de África Central	Comunidad Económica y Monetaria de África Central:
+XAG	961	-	Plata (denominado en onza troy)	
+XAU	959	-	Oro (denominado en onza troy)	
+XCD	951	2	Dólar del Caribe Oriental	Organización de Estados del Caribe Oriental:
+XDR	960	-	Derechos especiales de giro	Fondo Monetario Internacional
+XOF	952	0	Franco CFA de África Occidental	Unión Económica y Monetaria del África Occidental:
+XPD	964	-	Paladio (denominado en onza troy)	
+XPF	953	0	Franco CFP	Colectividades francesas de ultramar en el Pacífico:
+XPT	962	-	Platino (denominado en onza troy)	
+XSU	994	-	SUCRE	Sistema Unitario de Compensación Regional
+XTS	963	-	Reservado para pruebas	
+XUA	965	-	Unidad de cuenta BAD	Banco Africano de Desarrollo
+XXX	999	-	Sin divisa	
+YER	886	2	Rial yemení	Bandera de Yemen Yemen
+ZAR	710	2	Rand	
+ZMW	967	2	Kwacha zambiano	Bandera de Zambia Zambia
+ZWL	932	2	Dólar zimbabuense	Bandera de Zimbabue Zimbabue
